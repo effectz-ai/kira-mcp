@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "kira-mcp": { "command": "kira-mcp" }
+  }
+}

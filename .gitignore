@@ -23,3 +23,6 @@ src/kira_mcp/weights/.cache/
 # Editor
 .vscode/
 .idea/
+
+# kira workflow runtime state (plans, approvals, run logs)
+.kira/
