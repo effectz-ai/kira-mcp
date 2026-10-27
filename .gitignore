@@ -26,3 +26,5 @@ src/kira_mcp/weights/.cache/
 
 # kira workflow runtime state (plans, approvals, run logs)
 .kira/
+plans/
+reports/
